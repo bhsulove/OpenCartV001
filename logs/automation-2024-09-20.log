@@ -1,0 +1,140 @@
+13:55:10:107 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\master.xml
+
+13:55:17:299 [main] INFO  testCases.TC002_LoginTest - ----- Starting TC002_LoginTest -----
+13:55:17:513 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account. 
+13:55:18:097 [main] INFO  testCases.TC002_LoginTest - Clicked on Login. 
+13:55:18:317 [main] INFO  testCases.TC002_LoginTest - Entering Login Email Id
+13:55:18:598 [main] INFO  testCases.TC002_LoginTest - Entering login Password
+13:55:18:792 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+13:55:20:253 [main] INFO  testCases.TC002_LoginTest - Verifying MyAccount is Dispalyed
+13:55:20:262 [main] INFO  testCases.TC002_LoginTest - Logging In Successfull. 
+13:55:20:360 [main] INFO  testCases.TC002_LoginTest - --- Logging Off ---
+13:55:21:052 [main] INFO  testCases.TC002_LoginTest - ----- Closing TC002_LoginTest -----
+13:55:39:928 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\master.xml
+
+13:55:46:306 [main] INFO  testCases.TC002_LoginTest - ----- Starting TC002_LoginTest -----
+13:55:46:673 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account. 
+13:55:47:329 [main] INFO  testCases.TC002_LoginTest - Clicked on Login. 
+13:55:47:495 [main] INFO  testCases.TC002_LoginTest - Entering Login Email Id
+13:55:47:802 [main] INFO  testCases.TC002_LoginTest - Entering login Password
+13:55:48:008 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+13:55:49:706 [main] INFO  testCases.TC002_LoginTest - Verifying MyAccount is Dispalyed
+13:55:49:712 [main] INFO  testCases.TC002_LoginTest - Logging In Successfull. 
+13:55:49:832 [main] INFO  testCases.TC002_LoginTest - --- Logging Off ---
+13:55:50:698 [main] INFO  testCases.TC002_LoginTest - ----- Closing TC002_LoginTest -----
+14:08:18:595 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\master.xml
+
+14:08:26:145 [main] INFO  testCases.TC002_LoginTest - ----- Starting TC002_LoginTest -----
+14:08:26:401 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account. 
+14:08:27:072 [main] INFO  testCases.TC002_LoginTest - Clicked on Login. 
+14:08:27:200 [main] INFO  testCases.TC002_LoginTest - Entering Login Email Id
+14:08:27:459 [main] INFO  testCases.TC002_LoginTest - Entering login Password
+14:08:27:648 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+14:08:28:640 [main] INFO  testCases.TC002_LoginTest - Verifying MyAccount is Dispalyed
+14:08:28:646 [main] INFO  testCases.TC002_LoginTest - Logging In Successfull. 
+14:08:28:740 [main] INFO  testCases.TC002_LoginTest - --- Logging Off ---
+14:08:29:494 [main] INFO  testCases.TC002_LoginTest - ----- Closing TC002_LoginTest -----
+06:51:40:497 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\grid-docker.xml
+
+06:51:50:567 [main] INFO  testCases.TC002_LoginTest - ----- Starting TC002_LoginTest -----
+06:51:50:859 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account. 
+06:51:51:372 [main] INFO  testCases.TC002_LoginTest - Clicked on Login. 
+06:51:51:621 [main] INFO  testCases.TC002_LoginTest - Entering Login Email Id
+06:51:51:835 [main] INFO  testCases.TC002_LoginTest - Entering login Password
+06:51:52:086 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+06:51:53:165 [main] INFO  testCases.TC002_LoginTest - Verifying MyAccount is Dispalyed
+06:51:53:171 [main] INFO  testCases.TC002_LoginTest - Logging In Successfull. 
+06:51:53:282 [main] INFO  testCases.TC002_LoginTest - --- Logging Off ---
+06:51:53:967 [main] INFO  testCases.TC002_LoginTest - ----- Closing TC002_LoginTest -----
+06:52:37:639 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\grid-docker.xml
+
+06:52:43:725 [main] INFO  testCases.TC002_LoginTest - ----- Starting TC002_LoginTest -----
+06:52:44:127 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account. 
+06:52:44:927 [main] INFO  testCases.TC002_LoginTest - Clicked on Login. 
+06:52:45:207 [main] INFO  testCases.TC002_LoginTest - Entering Login Email Id
+06:52:45:830 [main] INFO  testCases.TC002_LoginTest - Entering login Password
+06:52:46:123 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+06:52:47:231 [main] INFO  testCases.TC002_LoginTest - Verifying MyAccount is Dispalyed
+06:52:47:240 [main] INFO  testCases.TC002_LoginTest - Logging In Successfull. 
+06:52:47:365 [main] INFO  testCases.TC002_LoginTest - --- Logging Off ---
+06:52:48:146 [main] INFO  testCases.TC002_LoginTest - ----- Closing TC002_LoginTest -----
+06:54:46:868 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\grid-docker.xml
+
+06:54:59:425 [main] INFO  testCases.TC002_LoginTest - ----- Starting TC002_LoginTest -----
+06:54:59:939 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account. 
+06:55:00:763 [main] INFO  testCases.TC002_LoginTest - Clicked on Login. 
+06:55:01:194 [main] INFO  testCases.TC002_LoginTest - Entering Login Email Id
+06:55:01:399 [main] INFO  testCases.TC002_LoginTest - Entering login Password
+06:55:01:621 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+06:55:12:566 [main] INFO  testCases.TC002_LoginTest - Verifying MyAccount is Dispalyed
+06:56:56:326 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\grid-docker.xml
+
+06:57:04:111 [main] INFO  testCases.TC002_LoginTest - ----- Starting TC002_LoginTest -----
+06:57:04:481 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account. 
+06:57:04:960 [main] INFO  testCases.TC002_LoginTest - Clicked on Login. 
+06:57:05:175 [main] INFO  testCases.TC002_LoginTest - Entering Login Email Id
+06:57:05:354 [main] INFO  testCases.TC002_LoginTest - Entering login Password
+06:57:05:455 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+06:57:16:273 [main] INFO  testCases.TC002_LoginTest - Verifying MyAccount is Dispalyed
+07:14:49:547 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\grid-docker.xml
+
+07:14:59:237 [main] INFO  testCases.TC002_LoginTest - ----- Starting TC002_LoginTest -----
+07:14:59:770 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account. 
+07:15:00:596 [main] INFO  testCases.TC002_LoginTest - Clicked on Login. 
+07:15:00:854 [main] INFO  testCases.TC002_LoginTest - Entering Login Email Id
+07:15:01:093 [main] INFO  testCases.TC002_LoginTest - Entering login Password
+07:15:01:353 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+07:15:02:536 [main] INFO  testCases.TC002_LoginTest - Verifying MyAccount is Dispalyed
+07:15:02:542 [main] INFO  testCases.TC002_LoginTest - Logging In Successfull. 
+07:15:02:670 [main] INFO  testCases.TC002_LoginTest - --- Logging Off ---
+07:15:03:418 [main] INFO  testCases.TC002_LoginTest - ----- Closing TC002_LoginTest -----
+07:16:03:298 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\grid-docker.xml
+
+07:16:15:954 [main] INFO  testCases.TC002_LoginTest - ----- Starting TC002_LoginTest -----
+07:16:16:964 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account. 
+07:16:17:570 [main] INFO  testCases.TC002_LoginTest - Clicked on Login. 
+07:16:18:078 [main] INFO  testCases.TC002_LoginTest - Entering Login Email Id
+07:16:18:254 [main] INFO  testCases.TC002_LoginTest - Entering login Password
+07:16:18:357 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+07:16:29:064 [main] INFO  testCases.TC002_LoginTest - Verifying MyAccount is Dispalyed
+07:27:33:792 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\grid-docker.xml
+
+07:27:41:571 [main] INFO  testCases.TC002_LoginTest - ----- Starting TC002_LoginTest -----
+07:27:42:127 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account. 
+07:27:42:911 [main] INFO  testCases.TC002_LoginTest - Clicked on Login. 
+07:27:43:226 [main] INFO  testCases.TC002_LoginTest - Entering Login Email Id
+07:27:43:442 [main] INFO  testCases.TC002_LoginTest - Entering login Password
+07:27:43:665 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+07:29:12:499 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\grid-docker.xml
+
+07:29:21:582 [main] INFO  testCases.TC002_LoginTest - ----- Starting TC002_LoginTest -----
+07:29:21:985 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account. 
+07:29:22:757 [main] INFO  testCases.TC002_LoginTest - Clicked on Login. 
+07:29:22:967 [main] INFO  testCases.TC002_LoginTest - Entering Login Email Id
+07:29:23:331 [main] INFO  testCases.TC002_LoginTest - Entering login Password
+07:29:23:461 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+07:40:51:709 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\grid-docker.xml
+
+07:41:00:620 [main] INFO  testCases.TC002_LoginTest - ----- Starting TC002_LoginTest -----
+07:41:01:114 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account. 
+07:41:01:663 [main] INFO  testCases.TC002_LoginTest - Clicked on Login. 
+07:41:02:001 [main] INFO  testCases.TC002_LoginTest - Entering Login Email Id
+07:41:02:166 [main] INFO  testCases.TC002_LoginTest - Entering login Password
+07:41:02:274 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+07:44:26:792 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\grid-docker.xml
+
+07:44:35:084 [main] INFO  testCases.TC002_LoginTest - ----- Starting TC002_LoginTest -----
+07:44:35:433 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account. 

@@ -1,0 +1,131 @@
+07:10:23:132 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicked on My Account. 
+07:10:23:930 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicked on Login. 
+07:10:24:032 [main] INFO  testCases.TC003_LoginDataDrivenTest - Entering Login Email Id
+07:10:24:346 [main] INFO  testCases.TC003_LoginDataDrivenTest - Entering login Password
+07:10:24:559 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicking on Login Button
+07:10:26:065 [main] INFO  testCases.TC003_LoginDataDrivenTest - --- Logging Off ---
+07:10:26:902 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Closing TC003_LoginDataDrivenTest -----
+07:10:26:917 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Starting TC003_LoginDataDrivenTest -----
+07:10:27:060 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicked on My Account. 
+07:10:27:588 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicked on Login. 
+07:10:27:677 [main] INFO  testCases.TC003_LoginDataDrivenTest - Entering Login Email Id
+07:10:28:014 [main] INFO  testCases.TC003_LoginDataDrivenTest - Entering login Password
+07:10:28:235 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicking on Login Button
+07:10:38:950 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Closing TC003_LoginDataDrivenTest -----
+07:17:14:856 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\master.xml
+
+07:17:28:046 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Starting TC003_LoginDataDrivenTest -----
+07:17:28:274 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicked on My Account. 
+07:17:29:369 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicked on Login. 
+07:17:29:543 [main] INFO  testCases.TC003_LoginDataDrivenTest - Entering Login Email Id
+07:17:29:886 [main] INFO  testCases.TC003_LoginDataDrivenTest - Entering login Password
+07:17:30:147 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicking on Login Button
+07:18:15:215 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\master.xml
+
+07:27:59:837 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\master.xml
+
+12:43:57:811 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\master.xml
+
+12:50:20:883 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\master.xml
+
+12:54:03:799 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\master.xml
+
+12:55:17:649 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\master.xml
+
+13:09:35:203 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\master.xml
+
+13:13:10:657 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\master.xml
+
+13:14:13:237 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\master.xml
+
+13:14:15:910 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Starting TC003_LoginDataDrivenTest -----
+13:14:16:007 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Closing TC003_LoginDataDrivenTest -----
+13:14:16:062 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Starting TC003_LoginDataDrivenTest -----
+13:14:16:063 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Closing TC003_LoginDataDrivenTest -----
+13:14:16:082 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Starting TC003_LoginDataDrivenTest -----
+13:14:16:083 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Closing TC003_LoginDataDrivenTest -----
+13:14:16:094 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Starting TC003_LoginDataDrivenTest -----
+13:14:16:095 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Closing TC003_LoginDataDrivenTest -----
+13:14:16:122 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Starting TC003_LoginDataDrivenTest -----
+13:14:16:125 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Closing TC003_LoginDataDrivenTest -----
+13:17:24:285 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\master.xml
+
+13:19:26:080 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\master.xml
+
+13:21:48:576 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\master.xml
+
+13:21:58:345 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Starting TC003_LoginDataDrivenTest -----
+13:21:58:548 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicked on My Account. 
+13:21:59:369 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicked on Login. 
+13:21:59:517 [main] INFO  testCases.TC003_LoginDataDrivenTest - Entering Login Email Id
+13:21:59:765 [main] INFO  testCases.TC003_LoginDataDrivenTest - Entering login Password
+13:21:59:968 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicking on Login Button
+13:22:10:842 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Closing TC003_LoginDataDrivenTest -----
+13:22:10:883 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Starting TC003_LoginDataDrivenTest -----
+13:22:11:028 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicked on My Account. 
+13:22:11:934 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicked on Login. 
+13:22:12:083 [main] INFO  testCases.TC003_LoginDataDrivenTest - Entering Login Email Id
+13:22:12:438 [main] INFO  testCases.TC003_LoginDataDrivenTest - Entering login Password
+13:22:12:797 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicking on Login Button
+13:22:23:610 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Closing TC003_LoginDataDrivenTest -----
+13:22:23:620 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Starting TC003_LoginDataDrivenTest -----
+13:22:23:761 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicked on My Account. 
+13:22:24:555 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicked on Login. 
+13:22:24:655 [main] INFO  testCases.TC003_LoginDataDrivenTest - Entering Login Email Id
+13:22:24:872 [main] INFO  testCases.TC003_LoginDataDrivenTest - Entering login Password
+13:22:25:026 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicking on Login Button
+13:22:35:724 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Closing TC003_LoginDataDrivenTest -----
+13:22:35:737 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Starting TC003_LoginDataDrivenTest -----
+13:22:35:908 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicked on My Account. 
+13:22:36:688 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicked on Login. 
+13:22:36:774 [main] INFO  testCases.TC003_LoginDataDrivenTest - Entering Login Email Id
+13:22:37:010 [main] INFO  testCases.TC003_LoginDataDrivenTest - Entering login Password
+13:22:37:163 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicking on Login Button
+13:22:38:226 [main] INFO  testCases.TC003_LoginDataDrivenTest - --- Logging Off ---
+13:22:39:009 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Closing TC003_LoginDataDrivenTest -----
+13:22:39:023 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Starting TC003_LoginDataDrivenTest -----
+13:22:39:123 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicked on My Account. 
+13:22:39:618 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicked on Login. 
+13:22:39:687 [main] INFO  testCases.TC003_LoginDataDrivenTest - Entering Login Email Id
+13:22:39:920 [main] INFO  testCases.TC003_LoginDataDrivenTest - Entering login Password
+13:22:40:076 [main] INFO  testCases.TC003_LoginDataDrivenTest - Clicking on Login Button
+13:22:50:678 [main] INFO  testCases.TC003_LoginDataDrivenTest - ----- Closing TC003_LoginDataDrivenTest -----
+13:51:15:659 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\master.xml
+
+13:51:22:744 [main] INFO  testCases.TC002_LoginTest - ----- Starting TC002_LoginTest -----
+13:51:23:105 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account. 
+13:51:23:574 [main] INFO  testCases.TC002_LoginTest - Clicked on Login. 
+13:51:23:666 [main] INFO  testCases.TC002_LoginTest - Entering Login Email Id
+13:51:23:938 [main] INFO  testCases.TC002_LoginTest - Entering login Password
+13:51:24:124 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+13:51:25:538 [main] INFO  testCases.TC002_LoginTest - Verifying MyAccount is Dispalyed
+13:51:25:543 [main] INFO  testCases.TC002_LoginTest - Logging In Successfull. 
+13:51:25:623 [main] INFO  testCases.TC002_LoginTest - --- Logging Off ---
+13:51:26:339 [main] INFO  testCases.TC002_LoginTest - ----- Closing TC002_LoginTest -----
+13:52:22:048 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sahaj\eclipse-workspace\OpencartV001\master.xml
+
+13:52:30:348 [main] INFO  testCases.TC002_LoginTest - ----- Starting TC002_LoginTest -----
+13:52:30:638 [main] INFO  testCases.TC002_LoginTest - Clicked on My Account. 
+13:52:31:173 [main] INFO  testCases.TC002_LoginTest - Clicked on Login. 
+13:52:31:363 [main] INFO  testCases.TC002_LoginTest - Entering Login Email Id
+13:52:31:643 [main] INFO  testCases.TC002_LoginTest - Entering login Password
+13:52:31:826 [main] INFO  testCases.TC002_LoginTest - Clicking on Login Button
+13:52:33:514 [main] INFO  testCases.TC002_LoginTest - Verifying MyAccount is Dispalyed
+13:52:33:521 [main] INFO  testCases.TC002_LoginTest - Logging In Successfull. 
+13:52:33:624 [main] INFO  testCases.TC002_LoginTest - --- Logging Off ---
+13:52:34:477 [main] INFO  testCases.TC002_LoginTest - ----- Closing TC002_LoginTest -----

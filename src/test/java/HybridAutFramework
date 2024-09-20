@@ -1,0 +1,57 @@
+  Automation Framework
+-----------------------
+is used to organize automation project files/folders in structured manner.
+
+Objectives
+1)Re-usability   2)Maintainability   3)Readability 
+
+Types of Frameworks
+--------------------
+1) Built-in
+		Ex: testng,jnuit,cucumber(bdd testing),robot(python) etc.
+2)Customized(user defined)
+		Ex: modular framework,data driver,keywork driven,hybrid driven etc.
+		
+Phases/Stages
+-------------
+1)Analysing AUT
+	-Number of pages
+	-Type of elements/how
+	-what to automate/what we cannot automate  Ex:(100 test cases--90 automatable, 10 manually tested)100%Automation
+---->Tests we cannot automate -->Manually(verify colors,font size/style,captchas,graphs,)
+
+2)Choose Test cases for Automation  
+a)sanity test cases                - P1          P=(Priority)
+b)data driven test cases/re-tests  - P2
+c)Regression test cases            - P3
+d)Any other test cases             - P4
+
+3)Design & Development of framework
+4)Execution - local,remote
+5)Maintainance
+         
+ Project:E-commerce Domain (Domain:Insurance,Finance,Banking,Healthcare,Travel,E-commerce,Education,Telecom,Logistics)
+ 1)Frontend operations(customers/users) 	
+  	- register an account
+  	- login/logout
+  	- search for the product
+  	- add/edit/delete products from the cart
+  	- order products
+  	- reviews etc....
+  2)Backend operations(admins/backend teams)
+  	- products
+  	- customers
+  	- orders
+  	- store etc....
+  	
+  ----------->https://tutorialsninja.com/demo/   (Opencart Application)
+  
+ --------------- Base Class contains all the common methods.-------------------
+  
+  Logging - record all the events in the form of text.
+  Log Levels - All<Trace<Debug<Info<Warn<Error<Fatal<Off
+  
+  Appenders - where to generate logs(Console/File-preferred)
+  Loggers - what type of logs to generate (All<Trace<Debug<Info<Warn<Error<Fatal<Off)
+  
+  
